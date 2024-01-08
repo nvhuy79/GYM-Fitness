@@ -437,6 +437,7 @@ ul li:hover a{
 /* -------------------------Contact section------------------------------ */
 .contact .content form{
     min-height: 100%;
+    
 }
 
 .contact .content form{
@@ -448,6 +449,8 @@ ul li:hover a{
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.5);
     z-index: 1;
     margin-top: 5%;
+    border: 3px ;
+    border-radius: 5%;
 }
 .contact .content form textarea,
 .contact .content form input{
